@@ -3,7 +3,7 @@
 **Tools for textual variant analysis, witness relationship mapping, and orthographic feature extraction**
 
 **Status**: Experimental research tools  
-**Related work**: [Avestan Text Processing Suite](https://github.com/niktayek/Avestan-Text-Processing-Suite) (Master's thesis, UC Berlin 2025)  
+**Related work**: [Avestan Text Processing Suite](https://github.com/niktayek/Avestan-Text-Processing-Suite) (Master's thesis, Freie Universität Berlin 2025)  
 **Published models**: [Hugging Face](https://huggingface.co/Nikyek/avestan-ocr-kraken-v1)
 
 ---
